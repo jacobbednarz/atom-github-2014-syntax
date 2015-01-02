@@ -1,7 +1,7 @@
 {
   "name": "atom-github-2014-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GitHub's 2014 syntax highlight colours",
   "repository": "https://github.com/atom/atom-github-2014-syntax",
   "license": "MIT",
